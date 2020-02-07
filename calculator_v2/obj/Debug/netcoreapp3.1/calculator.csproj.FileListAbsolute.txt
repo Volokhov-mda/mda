@@ -1,0 +1,11 @@
+/Users/nikitavolohov/Projects/calculator/calculator/bin/Debug/netcoreapp3.1/calculator
+/Users/nikitavolohov/Projects/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.deps.json
+/Users/nikitavolohov/Projects/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.runtimeconfig.json
+/Users/nikitavolohov/Projects/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.runtimeconfig.dev.json
+/Users/nikitavolohov/Projects/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.dll
+/Users/nikitavolohov/Projects/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.pdb
+/Users/nikitavolohov/Projects/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.csprojAssemblyReference.cache
+/Users/nikitavolohov/Projects/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfoInputs.cache
+/Users/nikitavolohov/Projects/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfo.cs
+/Users/nikitavolohov/Projects/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.dll
+/Users/nikitavolohov/Projects/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.pdb
